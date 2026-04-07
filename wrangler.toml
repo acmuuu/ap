@@ -1,0 +1,8 @@
+name = "ap"
+main = "_worker.js"
+compatibility_date = "2025-07-23"
+keep_vars = true
+
+[[kv_namespaces]]
+binding = "KV"
+id = "44adf56974af457ba6e97374c6ccbdbb"
